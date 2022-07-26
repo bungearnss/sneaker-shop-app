@@ -1,4 +1,4 @@
-# food_shop
+# Sneaker Shop App
 
 Sneaker shop UI using Flutter.
 
